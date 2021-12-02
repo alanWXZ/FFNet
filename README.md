@@ -5,7 +5,7 @@ Code release for the paper FFNet: Frequency Fusion Network for Semantic Scene Co
 
 
 
-Method	Trained on	SC IoU	SSC mIoU
+Method	Trained on	SC IoU	SSC mIoU \\
 SSCNet	NYU	55.1	24.7
 VVNetR-120	NYU+SUNCG	61.1	32.9
 DDRNet	NYU	61.0	30.4
